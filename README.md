@@ -1,2 +1,2 @@
 # Classification-Algorithms
-The study aims to apply classification algorithms to the accident severity dataset and compare their performance using applicable metrics.
+The study aims to apply classification algorithms to the accident severity dataset and compare their performance using applicable metrics. It contains the implementation of k-Nearest Neighbour and logistic regression algorithms for classification on selected dataset. The dataset for the classification algorithms task is a truncated and abridged version of the UK Road Safety Statistics. Full Data download can be obtained from (https://roadtraffic.dft.gov.uk/custom-downloads/road-accidents).
